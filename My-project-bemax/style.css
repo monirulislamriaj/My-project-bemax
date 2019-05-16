@@ -252,3 +252,59 @@ img {
     color: #fff;
     background: #19307d;
 }
+
+
+/*------------------------ */
+
+
+/*header-aria */
+
+
+/*------------------------ */
+
+.header-aria {
+    border-top: 3px solid #007bff;
+}
+
+nav.navbar.navbar-expand-lg.navbar-light {
+    width: 100%;
+}
+
+.navbar-light .navbar-brand {
+    margin-right: 35%;
+}
+
+a.navbar-brand {
+    border-bottom: none;
+}
+
+a:link,
+a:visited {
+    border-bottom: none;
+}
+
+.navbar-expand-lg .navbar-nav {
+    padding: 0;
+    margin: -8px;
+}
+
+.navbar-light .navbar-nav .nav-link {
+    padding: 47px 20px 46px 20px;
+    font-size: 15px;
+    color: #777777;
+    font-weight: 600;
+}
+
+.nav-link :last-child {
+    margin-right: 30px;
+    color: red;
+}
+
+.form-inline {
+    padding-left: 30px;
+    border-left: 1px solid #666;
+}
+
+.form-inline i {
+    cursor: pointer;
+}
