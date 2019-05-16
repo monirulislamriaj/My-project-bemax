@@ -253,6 +253,21 @@ img {
     background: #19307d;
 }
 
+.div:hover {
+    color: #f00;
+    background: #19307d;
+}
+
+.a:hover {
+    color: #000;
+    background: #19307d;
+}
+
+.li:hover {
+    color: #eee;
+    background: #19307d;
+}
+
 
 /*------------------------ */
 
